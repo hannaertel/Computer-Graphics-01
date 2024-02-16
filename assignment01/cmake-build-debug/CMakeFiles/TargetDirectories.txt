@@ -1,0 +1,3 @@
+/Users/hannaertel/Downloads/purdue-cs334-codebase-spring2024-master 3/assignment01/cmake-build-debug/CMakeFiles/assignment01.dir
+/Users/hannaertel/Downloads/purdue-cs334-codebase-spring2024-master 3/assignment01/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hannaertel/Downloads/purdue-cs334-codebase-spring2024-master 3/assignment01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
